@@ -1,7 +1,7 @@
 <h1 align="center">Alexandre Videlaine</h1>
 
 <p align="center">
-  <b>AI &amp; data engineer</b> — optimization, machine learning, LLM systems, and the software around them.
+  <b>Data &amp; AI engineer</b> — optimization, machine learning, LLM systems, and the software around them.
 </p>
 
 <p align="center">
