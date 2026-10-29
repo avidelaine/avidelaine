@@ -19,7 +19,6 @@ Engineer from ESIEE Paris (Data Science & AI, 2026). Currently consulting on AI 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**job-shop-scheduler**](https://github.com/avidelaine/job-shop-scheduler) | Job-shop scheduling with sequence-dependent changeovers, solved with CP-SAT. Gantt output, tests, CLI. | Python · OR-Tools |
 | [**fullstack-data-application**](https://github.com/avidelaine/fullstack-data-application) | Collaborative calendar: FastAPI API, PostgreSQL, JWT auth, Streamlit front, 35 tests, Docker Compose. | Python · FastAPI · Postgres |
 | [**discord-bot**](https://github.com/avidelaine/discord-bot) | Voice assistant for Discord: Whisper speech-to-text and a local llama.cpp model, as three GPU-enabled Docker services. | Node · Python · Docker |
 | [**AmazonWebScrapper**](https://github.com/avidelaine/AmazonWebScrapper) | Price tracker: scraper → MongoDB replica set → Elasticsearch → Flask UI, orchestrated with Docker Compose. | Python · MongoDB · Elasticsearch |
